@@ -1,5 +1,6 @@
 <?php  
-    echo 'first git'
+    echo 'first git';
+    echo 'git config!';
 
 
 
